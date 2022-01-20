@@ -1,12 +1,9 @@
 {
-  "name": "app",
-  "private": "true",
+  "name": "astlibra_simulator",
+  "private": true,
   "dependencies": {
-    "@hotwired/stimulus": "^3.0.1",
-    "@hotwired/turbo-rails": "^7.1.1",
-    "@popperjs/core": "^2.11.2",
-    "bootstrap": "^5.1.3",
-    "esbuild": "^0.14.11",
-    "sass": "^1.49.0"
-  }
+    "@rails/ujs": "^6.0.0",
+    "@rails/actioncable": "^6.0.0"
+  },
+  "version": "0.1.0"
 }

@@ -58,3 +58,6 @@ group :development do
   # gem "spring"
 end
 
+gem 'slim'
+gem 'html2slim'
+gem 'slim-rails'

@@ -1,9 +1,5 @@
 {
-  "name": "astlibra_simulator",
+  "name": "astlibra-simulator",
   "private": true,
-  "dependencies": {
-    "@rails/ujs": "^6.0.0",
-    "@rails/actioncable": "^6.0.0"
-  },
-  "version": "0.1.0"
+  "dependencies": {}
 }
